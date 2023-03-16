@@ -1,0 +1,14 @@
+- Redo the object model and inheritance
+- Make goot PHPUnit tests
+
+* toCML methods DONE
+* residue class DONE
+* macromolecule class DONE
+* protein class ? DONE
+- nucleic acid class ?
+* PDB atom class DONE
+* PDB molecule class DONE
+- CML file class
+* XYZ file class DONE
+* PDB file class DONE
+- reading from compressed files
